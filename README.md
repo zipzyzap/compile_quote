@@ -1,2 +1,1 @@
-# compile_quote
-Quote compiler
+This was a first attempt (with AI carrying most of the load) to create a shared program for an engineering team to compile quotes from outside vendors on piece parts. This was my beginning into creating software and beginning to understand what basic code was doing. I would like to eventually rebuild this application when I acquire new skills and better understanding. This will remain untouched to show where I began.
